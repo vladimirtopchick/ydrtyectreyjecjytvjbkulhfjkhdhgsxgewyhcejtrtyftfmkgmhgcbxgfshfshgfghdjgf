@@ -1,0 +1,16 @@
+aside{
+	background-color:#F5AF9B;
+	padding: 20px;
+	flex: 30%;
+}
+.fakeimg{
+	background-color: #aaa;
+	height: 200px;
+	width: 300px;
+	margin: 1%;
+	padding: 20px;
+}
+.fakeimg img{
+	width: auto;
+	height: 160px;
+}

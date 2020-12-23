@@ -1,0 +1,22 @@
+section{
+	flex: 70%;
+	padding: 20px;
+	background-color: #F5AF9B;
+
+}
+.foto_news{
+	background-color: #aaa;
+	height: 400px;
+	width: auto;
+	margin: 2%;
+	padding: 20px;
+}
+article{
+	padding: 20px 0;
+}
+h5{
+	padding: 1%;
+}
+.foto_news img{
+	height: 390px;
+}

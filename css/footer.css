@@ -1,0 +1,19 @@
+footer{
+	height: 100px;
+	width: auto;
+	background-color: #1abc9c;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+footer img{
+	height: 29px;
+	width:auto;
+}
+.wow{
+	 padding: 20px;                       
+}
+.wowwow{
+	padding: 20px;
+	font-family: 'Lobster', cursive;
+}
